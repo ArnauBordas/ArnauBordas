@@ -25,13 +25,17 @@
 ---
 
 ### ⚡ GitHub Activity   
+  
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ArnauBordas&show_icons=true&theme=tokyonight" /><br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArnauBordas&theme=tokyonight" /><br/><br/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ArnauBordas&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ArnauBordas&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ArnauBordas&theme=tokyonight" />
 </p>
-<br /> <br />
 
+<p align="center">
+  <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ArnauBordas&layout=compact&theme=tokyonight" />
+</p>
 
----
+<br />
 &nbsp;
+---
+
