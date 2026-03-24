@@ -24,18 +24,16 @@
 
 ---
 
-### ⚡ GitHub Activity   
-  
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ArnauBordas&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ArnauBordas&theme=tokyonight" />
-</p>
+### 📊 GitHub Activity & Stats
 
-<p align="center">
-  <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ArnauBordas&layout=compact&theme=tokyonight" />
-</p>
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ArnauBordas&show_icons=true&theme=radical)
 
-<br />
-&nbsp;
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ArnauBordas&theme=radical)
+
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ArnauBordas&layout=compact&theme=radical)
+
 ---
+
+### 📫 How to reach me
+- **Email:** arnaubordas@gmail.com
 
